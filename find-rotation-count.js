@@ -10,5 +10,4 @@ function findRotationCount(arr) {
 	}
 	return 0;
 }
-console.log(findRotationCount([ 7, 9, 11, 12, 15 ]));
 module.exports = findRotationCount;
